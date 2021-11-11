@@ -60,10 +60,10 @@
 
 		<div class="signupinfo">
 			<label class="coll">Username</label> <br>
-			<input class="input" type="text" name="username" placeholder="elvis722" value="<?php echo $username; ?>"> <br>
+			<input class="input" type="text" name="username" placeholder="USERNA,E" value="<?php echo $username; ?>"> <br>
 	
 			<label class="coll">E-mail</label><br>
-			<input type="email" name="mail" placeholder="elvisa@auk.org" ><br>
+			<input type="email" name="mail" placeholder="arditb@auk.edu" ><br>
 		
 			<label class="coll">Password</label><br>
 			<input type="password" placeholder="Your password" name="pwd1"><br>
