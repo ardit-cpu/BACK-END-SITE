@@ -19,7 +19,7 @@
 		<div class="data">
 			<img class="pic1" src="pics/quiz.png">
 			<label>Username:</label>
-			<input type="text" name="username" placeholder="Elvis722"  ><br>
+			<input type="text" name="username" placeholder="USERNAME"  ><br>
 			
 			<label>Password:</label>
 			<input type="password" name="pwd" placeholder="Your password"> <br>
